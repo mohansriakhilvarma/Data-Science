@@ -21,5 +21,3 @@ This case study explores the factors contributing to employee attrition at Salif
 - Scikit-learn
 - XGBoost
 
-## 📁 Project Structure
-
